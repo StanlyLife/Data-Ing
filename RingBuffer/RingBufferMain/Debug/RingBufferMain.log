@@ -1,0 +1,6 @@
+﻿  RingBufferMain.cpp
+C:\Users\stian\source\repos\RingBufferMain\RingBufferMain\RingBufferMain.cpp(12): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\stian\source\repos\RingBufferMain\RingBufferMain\RingBufferMain.cpp(27): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\stian\source\repos\RingBufferMain\RingBufferMain\RingBufferMain.cpp(37): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\stian\source\repos\RingBufferMain\RingBufferMain\RingBufferMain.cpp(42): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  RingBufferMain.vcxproj -> C:\Users\stian\source\repos\RingBufferMain\Debug\RingBufferMain.exe
