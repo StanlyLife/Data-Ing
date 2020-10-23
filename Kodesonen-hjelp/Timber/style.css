@@ -1,0 +1,48 @@
+body {
+    background-color: #3d3e57;
+}
+
+form-row {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0;
+}
+
+form {
+    width: 50%;
+    margin: 15vh auto;
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    text-align: center;
+    font-family: lobster;
+    font-size: 5rem;
+    color: whitesmoke;
+}
+
+form input {
+    text-align: center;
+    font-size: 2rem;
+    width: 300px;
+    margin: 0 auto;
+    border: none;
+    border-bottom: .30rem solid #7c7c91;
+    background-color: #c8c8d4;
+}
+
+.answer label {
+    color: #73738b;
+    font-size: 3rem;
+}
+
+.answer input {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #7c7c91;
+    color: whitesmoke;
+    pointer-events: none;
+    font-size: 1.25rem;
+    height: 3rem;
+    border-radius: 5px;
+}
